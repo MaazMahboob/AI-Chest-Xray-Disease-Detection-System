@@ -1,0 +1,31 @@
+# Ignore base/pretrained YOLO weights only
+yolo*.pt
+
+# Ignore dataset images (heavy)
+**/train/images/
+**/test/images/
+**/valid/images/
+**/val/images/
+
+# Ignore dataset labels (heavy)
+**/train/labels/
+**/test/labels/
+**/valid/labels/
+**/val/labels/
+
+# Ignore cache files
+*.cache
+labels.cache
+
+# Ignore uploads folder contents
+ChestXrayApp/uploads/*
+!ChestXrayApp/uploads/.gitkeep
+
+# Ignore database contents
+ChestXrayApp/database/*
+!ChestXrayApp/database/.gitkeep
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

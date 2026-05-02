@@ -7,71 +7,53 @@
         style="border-radius: 10px;"
     />
 
-  <h1 align="center" style="font-family: Arial; font-weight: 600; margin-top: 15px;">
-  SURE ProEd (formerly SURE Trust)
-  </h1>
+  <h1 align="center" style="font-family: Arial; font-weight: 600; margin-top: 15px;">SURE ProEd (formerly SURE Trust)</h1>
 
-<h2 style="color: #2b6cb0; font-family: Arial;">
-Skill Upgradation for Rural youth Empowerment Trust
-</h2>
+<h2 style="color: #2b6cb0; font-family: Arial;">Skill Upgradation for Rural youth Empowerment Trust</h2>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <div style="padding: 20px; border: 2px solid #ddd; border-radius: 12px; width: 90%; margin: auto; background: #fafafa; font-family: Arial;">
 
-<h2 style="color:#333;"> Student Details </h2>
+<h2 style = "color:#333;"> Student Details </h2>
+<div align = "left" style ="margin: 20px; font-size: 16px;">
 
-<div align="left" style="margin: 20px; font-size: 16px;">
+<p><strong>Name:</strong> Maaz Mahboob </p>
 
-<p><strong>Name:</strong> Maaz Mahboob</p>
+<p><strong>Email ID:</strong> Mahboob </p>
 
-<p><strong>Email ID:</strong> maazmahboobg36python@gmail.com</p>
+<p><strong>College Name:</strong> ZHCET , AMU </p>
 
-<p><strong>College Name:</strong> Zakir Husain College of Engineering & Technology (ZHCET), AMU</p>
+<p><strong>Branch/Specialization :</strong> B.Tech AI </p>
 
-<p><strong>Branch/Specialization :</strong> B.Tech Artificial Intelligence</p>
-
-<p><strong>College ID:</strong> 21AIB163</p>
+<p><strong>College ID:</strong> 21AIB163 </p>
 
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
-
 <div align="left" style="margin: 20px; font-size: 16px;">
-
-<p><strong>Course Opted:</strong> G36 Python </p>
-
-<p><strong>Instructor Name:</strong> Bhargavesh Dakka </p>
-
+    <p><strong>Course Opted:</strong> G36 Python </p>
+    <p><strong>Instructor Name:</strong> Bhargavesh Dakka </p>
 </div>
 
 <div align="left" style="margin: 20px; font-size: 16px;">
-
-<p><strong>Duration:</strong> 6 Months </p>
-
-</div>
+    <p><strong>Duration:</strong> 6 months </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
-
 <div align="left" style="margin: 20px; font-size: 16px;">
 
 <p><strong>Trainer Name:</strong> Preethi Grace </p>
-
-<p><strong>Trainer Email ID:</strong> <!-- Add trainer email if required --> </p>
-
+<p><strong>Trainer Email ID:</strong> <!-- Add trainer email --> </p>
 <p><strong>Trainer Designation:</strong> <!-- Add designation along with company --> </p>
-
-</div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 ## **Table of Contents**
-
 - [Course Learning](#course-learning-to-be-edited-by-student)
 - [Projects Completed](#projects-completed)
 - [Project Introduction](#project-introduction)
@@ -85,32 +67,35 @@ Skill Upgradation for Rural youth Empowerment Trust
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
-## Overall Learning
+## Overall Learning 
 
-During this internship, I gained practical experience in Python programming and machine learning concepts. I learned how to work with real-world datasets, perform data preprocessing, conduct exploratory data analysis, and build machine learning models.
+During this internship, core competencies were developed in Python programming, backend development, and data analysis. Practical experience was gained in building RESTful APIs using the FastAPI framework, including integration of external APIs and development of internal API systems.
 
-The internship also helped strengthen my problem-solving abilities and improved my confidence in implementing end-to-end machine learning workflows. Through hands-on assignments and projects, I developed a better understanding of how theoretical concepts can be applied to practical real-world scenarios.
+Strong proficiency was developed in data analysis using Pandas, including data cleaning, preprocessing, and exploratory data analysis (EDA) techniques such as univariate, bivariate, and multivariate analysis. Data visualization skills were also enhanced for effective representation of insights.
 
----
+Additional experience was obtained in Microsoft Excel and Power BI for data analysis and dashboard creation. Fundamental machine learning concepts were applied, including classification and regression models for predictive analysis.
+
+The internship strengthened problem-solving abilities, technical implementation skills, and the ability to work with real-world datasets and backend systems.
 
 <h2 style="color:#333;"> Projects Completed </h2>
-
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Project 1</strong> < Skin Disease Prediction </p>
+<p><strong>Project 1</strong> &lt;Skin Disease Prediction (friend)&gt; </p>
 
 </div>
 
----
-
-### Project 1: Skin Disease Prediction
-
-Deep learning-based skin disease classification using a Swin Transformer model trained on the HAM10000 dataset. The project applies transfer learning and addresses dataset class imbalance to improve model performance.
-
-The implementation includes dataset preprocessing, model training, evaluation, and prediction using PyTorch. The system demonstrates how transformer-based architectures can be used for medical image classification tasks.
+<!-- Project 1 -->
+<h3 id="project1">Project 1: Skin Disease Prediction</h3>
+<p>
+  A deep learning-based system developed to classify skin diseases using dermoscopic images. 
+  The project uses modern deep learning architectures trained on medical image datasets to 
+  identify and categorize different types of skin conditions. The model processes input images, 
+  extracts visual features, and predicts the most probable skin disease category. 
+  This project demonstrates the use of artificial intelligence in medical diagnosis support systems.
+</p>
 
 <p>
-<a href="SURE Trust project document.pdf"><strong>→ View Full Project Report</strong></a>
+  <a href="SURE Trust project document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
@@ -123,31 +108,27 @@ The implementation includes dataset preprocessing, model training, evaluation, a
 
 ## **Learnings from LST and SST**
 
-Soft Skills Training (SST) sessions focused on improving communication skills, teamwork, and professional behavior. These sessions helped in understanding how to present ideas clearly, interact confidently in professional environments, and adapt to workplace expectations.
+In addition to technical training, structured soft skills and life skills sessions were conducted. These sessions covered professional communication, workplace ethics, emotional intelligence, leadership, presentation skills, negotiation, and career development. 
 
-Life Skills Training (LST) sessions contributed to personal development by encouraging self-awareness, confidence, and emotional intelligence. These sessions helped in managing stress, improving discipline, and maintaining a positive mindset while handling challenges.
+The sessions provided exposure to workplace expectations and helped improve confidence, communication abilities, and overall professional development.
 
 ---
 
 ## **Community Services**
 
-During the internship period, participation in community-oriented activities was carried out as part of the program's social responsibility initiatives. These activities aimed to contribute positively to society while developing awareness of environmental and social responsibilities.
+During the internship period, participation in community-oriented activities was undertaken as part of social responsibility initiatives organized through the program.
 
 ### **Activities Involved**
 
-- **Tree Plantation Drive** – Participated in planting trees to support environmental sustainability and promote a greener environment.
+- **Tree Plantation Drive** – Participated in planting trees to contribute to environmental sustainability and greener surroundings.
 
-- **Helping Elder Citizens** – Assisted elderly individuals with basic daily tasks and offered support where required.
+- **Helping Elder Citizens** – Assisted elderly individuals with basic daily activities and provided support where needed.
 
 ### **Impact / Contribution**
 
-- Contributed to environmental awareness through participation in tree plantation activities.
-
-- Provided assistance and support to elderly citizens in the community.
-
+- Contributed to environmental awareness through participation in plantation activities.
+- Provided assistance and support to elderly citizens within the community.
 - Developed a stronger sense of social responsibility and community engagement.
-
-- Improved communication, empathy, and teamwork skills through community interaction.
 
 ### **Photos**
 
@@ -163,24 +144,20 @@ During the internship period, participation in community-oriented activities was
 
 ## **Certificate**
 
-The internship certificate serves as an official acknowledgment of the successful completion of the training program. It will be issued by the organization upon fulfilling all the required tasks and evaluation criteria.
+The internship certificate serves as an official acknowledgment of the successful completion of the training period. It will be issued by the organization upon fulfilling all required tasks and meeting the performance expectations of the program.
 
 <p align="center">
-<img src="https://github.com/Lord-Rahul/Practice-Programs/blob/main/react/1/public/Gemini_Generated_Image_a6w8rda6w8rda6w8.png?raw=true" width="80%">
+<img src="https://github.com/Lord-Rahul/Practice-Programs/blob/main/react/1/public/Gemini_Generated_Image_a6w8rda6w8rda6w8.png?raw=true" alt="Internship Certificate" width="80%">
 </p>
 
 ---
 
 ## **Acknowledgments**
 
-I would like to express my sincere gratitude to my mentor **Mr. Bhargavesh Dakka**, Decision Scientist – II at Mu Sigma Inc., for his valuable guidance and continuous support throughout the training program.
+Sincere gratitude is extended to the SURE Trust team for providing this valuable opportunity and for the continuous support offered throughout the internship program.
 
-I would also like to thank **Prof. Radhakumari Challa**, Executive Director and Founder of **SURE Trust**, for providing this valuable opportunity to participate in an industry-oriented learning program.
+Special thanks are conveyed to **Bhargavesh Dakka**, Decision Scientist - II at Mu Sigma Inc., for his guidance and mentorship during the training program.
 
-My appreciation also extends to the trainers and organizers who supported the program and created an environment that encouraged learning and professional growth.
-
-This internship experience has been highly valuable and has helped strengthen both my technical knowledge and professional outlook.
-
----
+Appreciation is also extended to the trainers and organizers who contributed to creating a structured learning environment and supported students throughout the course.
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
